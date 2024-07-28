@@ -1,0 +1,27 @@
+body {
+    line-height: 1.6;
+    margin: 0;
+    background-color: #78fc99;
+    color: hsl(0, 0%, 0%);
+}
+header  {
+    background-color: #3cac40;
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-size: 200%;
+    text-align: center;
+}
+
+p{
+    font-size: 150%;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    font-size: 150%;
+}
